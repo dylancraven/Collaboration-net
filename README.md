@@ -10,4 +10,4 @@ Data wranglin'
 
 2. Cleaning author lists is tricky, as multiple delimiters (e.g., ',','and', etc.) and ways of referencing the same author (e.g., 'D. Craven', 'Craven, D', or 'D.J. Craven') are used. Given these issues, I used - gulp - LibreOffice's 'text to columns' tool to create separate columns for each author. 
 
-From here you can follow the code in the repository.Collaboration-net
+From here you can follow the code in the repository and use my publication data ('Craven_pubs.csv'). As this is the first time that I have created a real, public repository, I also created a .Rmd file to annotate the entire process ("Blog_VisualizaingCollaborations.Rmd").
