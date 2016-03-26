@@ -1,9 +1,4 @@
----
-title: "Visualizing collaboration networks"
-author: "Dylan Craven"
-date: "03/25/2016"
-output: html_document
----
+
 
 Recently I've been thinking about research collaborations and how they have changed over the years. Intuitively I know that I now publish with
 a lot more people in many different countries than I did during my graduate studies. Visualizing this change, I thought, would illustrate
